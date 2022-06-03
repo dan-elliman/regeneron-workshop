@@ -1,16 +1,11 @@
 <div align="center">
-    <img src="images/fanduel.png" width=50% height=50%>
-</div>
-
-
-<div align="center">
     <img src="images/confluent.png" width=50% height=50%>
 </div>
 
 
-# <div align="center">Fanduel Demo and Workshop repository</div>
+# <div align="center">Regeneron Demo and Workshop repository</div>
 
-This repository contains workshop content for Fanduel to be held on May 11th and 12th in Edinburgh, Scotland. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
+This repository contains workshop content for Regeneron. Content with the lab instructions and hands-on guide will be updated before the workshop. Please see below for the details of the workshop and agenda: 
 
 ## Introduction
 
@@ -28,11 +23,11 @@ Quartermile One Lauriston Place, 15 Lauriston Pl, Edinburgh EH3, UK
 | Topic | Time (GMT+1) | Speaker |
 | --- | --- | --- |
 | Workshop Kickoff | 10:00 - 10:15 | Dan Elliman - Confluent |
-| Review Fanduel Use-Cases and <br/> Architecture |  10:15 - 11:00  | Dan Elliman / Ravi Appalla - Confluent |
+| Review Regeneron Use-Cases and <br/> Architecture |  10:15 - 11:00  | Dan Elliman / Ravi Appalla - Confluent |
 | Break |  11:00 - 11:15  |  |
 | Confluent Introduction and <br/> Hands-on Workshop Demo |  11:15 - 12:30  | Ravi Appalla - Confluent |
 | Lunch |  12:30 - 1:30  | Will be coordinated by Confluent Team |
-| Workshop Environment setup |  1:30 - 1:45  | Fanduel team |
+| Workshop Environment setup |  1:30 - 1:45  | Regeneron team |
 | Streaming with Confluent and <br/> AWS Outposts using Cluster Linking|  1:45 - 2:30  | Joseph Morais, Staff Partner Solutions Engineer |
 | Observability and Monitoring |  2:30 - 3:15  | Dustin Cote, Senior Product Manager  |
 | Break |  3:15 - 3:30  |  |
@@ -45,7 +40,7 @@ Quartermile One Lauriston Place, 15 Lauriston Pl, Edinburgh EH3, UK
 
 | Topic | Time | Speaker |
 | --- | --- | --- |
-| MVP Evaluation Roadmap |  10:00 - 11:00  |  Fanduel Team  |
+| MVP Evaluation Roadmap |  10:00 - 11:00  |  Regeneron Team  |
 | Break |  11:00 - 11:15  |  |
 | Value Assessment |  11:15 - 12:00  |  Dan Elliman  |
 | Lunch |  12:00 - 1:00  | Will be coordinated by Confluent Team |
