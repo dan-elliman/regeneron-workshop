@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/regeneron.png" width=50% height=50%>
+    <img src="images/download.png" width=50% height=50%>
 </div>
 
 <div align="center">
