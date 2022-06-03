@@ -19,9 +19,6 @@ We welcome you to join the Confluent team in a workshop to get started with data
 
 This workshop is perfect for those looking to get started with Confluent Cloud and build the foundation of your use case with our experienced engineers. 
 
-## Address: 
-Quartermile One Lauriston Place, 15 Lauriston Pl, Edinburgh EH3, UK
-
 ## Workshop Agenda - Day 1:
 
 | Topic | Time (GMT+1) | Speaker |
