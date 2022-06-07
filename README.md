@@ -19,36 +19,6 @@ We welcome you to join the Confluent team in a workshop to get started with data
 
 This workshop is perfect for those looking to get started with Confluent Cloud and build the foundation of your use case with our experienced engineers. 
 
-## Workshop Agenda - Day 1:
-
-| Topic | Time (GMT+1) | Speaker |
-| --- | --- | --- |
-| Workshop Kickoff | 10:00 - 10:15 | Dan Elliman - Confluent |
-| Review Regeneron Use-Cases and <br/> Architecture |  10:15 - 11:00  | Dan Elliman / Ravi Appalla - Confluent |
-| Break |  11:00 - 11:15  |  |
-| Confluent Introduction and <br/> Hands-on Workshop Demo |  11:15 - 12:30  | Ravi Appalla - Confluent |
-| Lunch |  12:30 - 1:30  | Will be coordinated by Confluent Team |
-| Workshop Environment setup |  1:30 - 1:45  | Regeneron team |
-| Streaming with Confluent and <br/> AWS Outposts using Cluster Linking|  1:45 - 2:30  | Joseph Morais, Staff Partner Solutions Engineer |
-| Observability and Monitoring |  2:30 - 3:15  | Dustin Cote, Senior Product Manager  |
-| Break |  3:15 - 3:30  |  |
-| Stream Lineage and Data Governance |  3:30 - 4:30  |David Araujo, Staff Product Manager  |
-
- 
-
-
-## Workshop Agenda - Day 2:
-
-| Topic | Time | Speaker |
-| --- | --- | --- |
-| MVP Evaluation Roadmap |  10:00 - 11:00  |  Regeneron Team  |
-| Break |  11:00 - 11:15  |  |
-| Value Assessment |  11:15 - 12:00  |  Dan Elliman  |
-| Lunch |  12:00 - 1:00  | Will be coordinated by Confluent Team |
-| Q&A and Workshop wrap-up |  1:00 - 2:00  | Dan Elliman / Ravi Appalla - Confluent |
-
-
-
 ## Topics Covered in the Demo and Workshop:
 1. [Log into Confluent Cloud](#step-1)
 2. [Create an Environment and Cluster](#step-2)
